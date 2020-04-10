@@ -12,3 +12,10 @@ See [AWS Compute services](https://aws.amazon.com/products/compute/)
 2. __ELB__ distributes traffic to __EC2__ instances
 3. Amazon Simple Storage Service (__S3__)
 4. __DynamoDB__ Relational Database Service (RDS)
+
+## VPC
+### VPC with a Single Public Subnet
+* Region, Availability Zone
+* IP Range: __IPv4 CIDR block__, ex: 10.10.0.0/16
+* __Subnet IPv4 CIDR:__ 10.10.1.0/24 
+    *see [Subnetwork](https://en.wikipedia.org/wiki/Subnetwork)
